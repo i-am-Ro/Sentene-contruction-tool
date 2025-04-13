@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", sans-serif;
+  /* Light background gradient for a soft feel */
+  background: linear-gradient(to bottom, #fef9c3, #ffffff);
+}
